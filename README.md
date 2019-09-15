@@ -1,6 +1,7 @@
 # Banking_System
 
 Allows user to open bank account, lodge/withdraw from account, close account, and view details for all bank accounts.
+Details of open accounts are written to a file.
 
 Menu pressented to user:
 
